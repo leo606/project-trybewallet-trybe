@@ -1,3 +1,5 @@
+# Boas vindas ao repositório do projeto Trybe Wallet!
+
 # Habilidades
 Principais habilidades desenvolvidas nesse projeto:
 
