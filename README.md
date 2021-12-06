@@ -17,8 +17,6 @@ Principais habilidades desenvolvidas nesse projeto:
 
 ---
 
-# Entregáveis
-
 ## O que foi desenvolvido
 
 Neste projeto foi desenvolvido uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário é capaz de:
